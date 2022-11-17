@@ -1,8 +1,4 @@
 Another code
-<<<<<<< .merge_file_nwgXzQ
 Some Code
 Some code 2
-=======
-Some Code
 Some code from other developer
->>>>>>> .merge_file_GogCQs
